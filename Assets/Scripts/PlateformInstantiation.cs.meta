@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: a9a899bb66c0cfb449b24973af9bdb00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FlatNeutral1: {fileID: 1224235335702360, guid: 95c5756a795090a4f82d5cc72e125090,
+      type: 2}
+  - FlatNeutral2: {fileID: 1224235335702360, guid: 95c5756a795090a4f82d5cc72e125090,
+      type: 2}
+  - FlatSpeedUp1: {fileID: 1224235335702360, guid: 95c5756a795090a4f82d5cc72e125090,
+      type: 2}
+  - FlatSpeedUp2: {fileID: 1224235335702360, guid: 95c5756a795090a4f82d5cc72e125090,
+      type: 2}
+  - FlatSpeedDown1: {fileID: 1224235335702360, guid: 95c5756a795090a4f82d5cc72e125090,
+      type: 2}
+  - FlatSpeedDown2: {fileID: 1224235335702360, guid: 95c5756a795090a4f82d5cc72e125090,
+      type: 2}
+  - UpNeutral1: {fileID: 1148813019138146, guid: fe1f5becace76d546bef2c99b81549f3,
+      type: 2}
+  - UpNeutral2: {fileID: 1148813019138146, guid: fe1f5becace76d546bef2c99b81549f3,
+      type: 2}
+  - UpSpeedUp1: {fileID: 1148813019138146, guid: fe1f5becace76d546bef2c99b81549f3,
+      type: 2}
+  - UpSpeedUp2: {fileID: 1148813019138146, guid: fe1f5becace76d546bef2c99b81549f3,
+      type: 2}
+  - UpSpeedDown1: {fileID: 1148813019138146, guid: fe1f5becace76d546bef2c99b81549f3,
+      type: 2}
+  - UpSpeedDown2: {fileID: 1148813019138146, guid: fe1f5becace76d546bef2c99b81549f3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
